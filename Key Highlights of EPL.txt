@@ -1,0 +1,22 @@
+Key Highlights - 
+
+The English Premier League (EPL) 2020-2021 season was the 29th season of the Premier League since its establishment in 1992. The season 
+started on September 12, 2020, and ended on May 23, 2021. Manchester City were crowned champions for the fifth time, finishing 12 points 
+clear of second-placed Manchester United. They won 27 of their 38 league matches, scoring 82 goals and conceding only 32. The top goal 
+scorer of the season was Harry Kane of Tottenham Hotspur with 23 goals, followed by Mohamed Salah of Liverpool with 22 goals. The player 
+with the most assists was Harry Kane with 14 assists. 
+
+1- Manchester City ranked first in terms of goals scored, with 82.
+
+2- Manchester United finished second with a total of 70 goals. 
+
+3-  The correlation between expected goals (xG) and expected attempts (xA) is 0.35.
+
+4-The three teams that were relegated to the Championship were Fulham, West Bromwich Albion, and Sheffield United. The three teams 
+   promoted from the Championship to the Premier League for the 2021-2022 season were Norwich City, Watford, and Brentford.
+
+5- While 102 penalty goals were successfully scored, teams missed 23 penalties.
+
+6- 125 penalty shots were taken, and 102 of them were successful in becoming goals.
+
+7-There were 125 penalties attempted, with 23 missed and 102 successfully converted into goals.
